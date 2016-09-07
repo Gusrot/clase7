@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Constructores-metodos-c-sharp-master\VirtualRace\VirtualRaceConsola\bin\Debug\VirtualRaceConsola.exe.config
+C:\Users\alumno\Desktop\Constructores-metodos-c-sharp-master\VirtualRace\VirtualRaceConsola\bin\Debug\VirtualRaceConsola.exe
+C:\Users\alumno\Desktop\Constructores-metodos-c-sharp-master\VirtualRace\VirtualRaceConsola\bin\Debug\VirtualRaceConsola.pdb
+C:\Users\alumno\Desktop\Constructores-metodos-c-sharp-master\VirtualRace\VirtualRaceConsola\obj\Debug\VirtualRaceConsola.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Constructores-metodos-c-sharp-master\VirtualRace\VirtualRaceConsola\obj\Debug\VirtualRaceConsola.exe
+C:\Users\alumno\Desktop\Constructores-metodos-c-sharp-master\VirtualRace\VirtualRaceConsola\obj\Debug\VirtualRaceConsola.pdb
