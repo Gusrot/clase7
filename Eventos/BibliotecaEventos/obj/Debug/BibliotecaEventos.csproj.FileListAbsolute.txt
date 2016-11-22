@@ -1,0 +1,5 @@
+D:\Rotela Gustavo\Eventos\BibliotecaEventos\bin\Debug\BibliotecaEventos.dll
+D:\Rotela Gustavo\Eventos\BibliotecaEventos\bin\Debug\BibliotecaEventos.pdb
+D:\Rotela Gustavo\Eventos\BibliotecaEventos\obj\Debug\BibliotecaEventos.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\Eventos\BibliotecaEventos\obj\Debug\BibliotecaEventos.dll
+D:\Rotela Gustavo\Eventos\BibliotecaEventos\obj\Debug\BibliotecaEventos.pdb

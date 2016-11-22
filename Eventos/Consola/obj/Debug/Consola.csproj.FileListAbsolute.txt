@@ -1,0 +1,6 @@
+D:\Rotela Gustavo\Eventos\Consola\bin\Debug\Consola.exe.config
+D:\Rotela Gustavo\Eventos\Consola\bin\Debug\Consola.exe
+D:\Rotela Gustavo\Eventos\Consola\bin\Debug\Consola.pdb
+D:\Rotela Gustavo\Eventos\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\Eventos\Consola\obj\Debug\Consola.exe
+D:\Rotela Gustavo\Eventos\Consola\obj\Debug\Consola.pdb

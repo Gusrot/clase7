@@ -1,0 +1,11 @@
+D:\Rotela Gustavo\Eventos\Eventos\bin\Debug\Eventos.exe.config
+D:\Rotela Gustavo\Eventos\Eventos\bin\Debug\Eventos.exe
+D:\Rotela Gustavo\Eventos\Eventos\bin\Debug\Eventos.pdb
+D:\Rotela Gustavo\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+D:\Rotela Gustavo\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+D:\Rotela Gustavo\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.Cache
+D:\Rotela Gustavo\Eventos\Eventos\obj\Debug\Eventos.exe
+D:\Rotela Gustavo\Eventos\Eventos\obj\Debug\Eventos.pdb
+D:\Rotela Gustavo\Eventos\Eventos\bin\Debug\BibliotecaEventos.dll
+D:\Rotela Gustavo\Eventos\Eventos\bin\Debug\BibliotecaEventos.pdb
